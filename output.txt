@@ -1,0 +1,15 @@
+a. Cheapest Price: 90.0
+
+b. Cheapest Room Type: King Studio Suite - Non Smoking
+   Number of Guests in the Cheapest Room: 4
+
+c. Total prices for all rooms:
+Room Type: King Studio Suite - Hearing Accessible/Non-Smoking, Total Price: 131.76
+Room Type: King Studio Suite - Non Smoking, Total Price: 108.71
+Room Type: King Room - Mobility/Hearing Accessible - Non-Smoking, Total Price: 133.76
+Room Type: Queen Suite with Two Queen Beds - Non-Smoking, Total Price: 130.76
+
+
+This is how I calculated the total prices including taxes:
+Total Taxes = 14.70 (TAX) + 4.01 (City tax) = 18.71
+I added 18.71 to the prices of all rooms. For example, the total price of the cheapest room with taxes included is 90.0 + 18.71 = 108.71.
